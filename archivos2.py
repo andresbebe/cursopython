@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 #Hacer un programa que copie las primeras dos líneas del archivo de (a)
-#"a otro archivo "dos.txt"
+#"a otro archivo "dos.txt"  --
 
 #Modo leectura
 f = open('/home/andres/Dropbox/Curso programacion/archivos/archivo.py', 'r')
